@@ -1,0 +1,11 @@
+C:\Users\Dalton\Documents\Visual Studio 2015\Projects\Assignment2\Assignment2\bin\Debug\Assignment2.exe.config
+C:\Users\Dalton\Documents\Visual Studio 2015\Projects\Assignment2\Assignment2\obj\Debug\Assignment2.csprojResolveAssemblyReference.cache
+C:\Users\Dalton\Documents\Visual Studio 2015\Projects\Assignment2\Assignment2\obj\Debug\Assignment2.Properties.Resources.resources
+C:\Users\Dalton\Documents\Visual Studio 2015\Projects\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.GenerateResource.Cache
+C:\Users\Dalton\Documents\Visual Studio 2015\Projects\Assignment2\Assignment2\bin\Debug\Assignment2.exe
+C:\Users\Dalton\Documents\Visual Studio 2015\Projects\Assignment2\Assignment2\bin\Debug\Assignment2.pdb
+C:\Users\Dalton\Documents\Visual Studio 2015\Projects\Assignment2\Assignment2\obj\Debug\Assignment2.exe
+C:\Users\Dalton\Documents\Visual Studio 2015\Projects\Assignment2\Assignment2\obj\Debug\Assignment2.pdb
+D:\Programming\ASP.NET\Assignment2\Assignment2\bin\Debug\Assignment2.exe.config
+D:\Programming\ASP.NET\Assignment2\Assignment2\obj\Debug\Assignment2.exe
+D:\Programming\ASP.NET\Assignment2\Assignment2\obj\Debug\Assignment2.pdb

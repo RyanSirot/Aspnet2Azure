@@ -1,0 +1,8 @@
+D:\Programming\ASP.NET\Assignment2\Assignment2\bin\Debug\Assignment2.exe.config
+D:\Programming\ASP.NET\Assignment2\Assignment2\bin\Debug\Assignment2.exe
+D:\Programming\ASP.NET\Assignment2\Assignment2\bin\Debug\Assignment2.pdb
+D:\Programming\ASP.NET\Assignment2\Assignment2\obj\Debug\GraphicsAssignment2.csprojResolveAssemblyReference.cache
+D:\Programming\ASP.NET\Assignment2\Assignment2\obj\Debug\Assignment2.Properties.Resources.resources
+D:\Programming\ASP.NET\Assignment2\Assignment2\obj\Debug\GraphicsAssignment2.csproj.GenerateResource.Cache
+D:\Programming\ASP.NET\Assignment2\Assignment2\obj\Debug\Assignment2.exe
+D:\Programming\ASP.NET\Assignment2\Assignment2\obj\Debug\Assignment2.pdb
