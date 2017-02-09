@@ -1,0 +1,36 @@
+﻿@model AspnetLab4HtmlHelper.Models.Product
+
+@{ ViewBag.Title = "Product Details"; }
+
+<h2>Details</h2>
+
+<table>
+    <tr>
+        <th>Product Name</th>
+        <th>Supplier</th>
+        <th>Category</th>
+        <th>Unit Price</th>
+        <th></th>
+    </tr>
+
+    
+    <tr>
+        <td>
+            @Html.DisplayFor(model => model.ProductName)
+        </td>
+        <td>
+            @Html.DisplayFor(model => model.Supplier.CompanyName)
+        </td>
+        <td>
+            @Html.DisplayFor(model => model.Category.CategoryName)
+        </td>
+        <td>
+            @Html.DisplayFor(model => model.UnitPrice)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id = Model.ProductID })                
+        </td>
+    </tr>
+    
+</table>
+

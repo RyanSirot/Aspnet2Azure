@@ -1,0 +1,22 @@
+﻿@model AspnetLab4HtmlHelper.Models.Product
+
+
+@Html.Hidden("ProductID", Model.ProductID)
+<p>
+    @Html.Label("ProductName")
+    @Html.TextBox("ProductName", Model.ProductName)
+    @Html.ValidationMessageFor(p => p.ProductName, "" , new{ @class = "text-danger"})
+</p>
+<p>
+    @Html.Label("UnitPrice")
+    @Html.TextBox("UnitPrice", Model.UnitPrice)
+</p>
+<p>
+    @Html.Label("CategoryID")
+    @Html.DropDownList("CategoryID", ViewBag.Categories as SelectList)
+</p>
+
+<p>
+    @Html.Label("SuplierID")
+    @Html.DropDownList("SupplierID", ViewBag.Suppliers as SelectList)
+</p>
